@@ -1,0 +1,322 @@
+{
+    "content" : {
+        "s1" : {
+            "head" : "Capture missed opportunities. Reach your financial experts through video, now."
+        },
+        "s2" : {
+            "head" : "Just how much opportunity is your bank missing?",
+            "select1" : {
+                "label" : "Number of bank branches:",
+                "options" : [
+                    "200",
+                    "500",
+                    "750",
+                    "1,000",
+                    "2,500",
+                    "5,000"
+                ]
+            },
+            "select2" : {
+                "label" : "Ratio of bank branches to expert advisors:",
+                "options" : [
+                    "10",
+                    "15",
+                    "20"
+                ]
+            },
+            "select3" : {
+                "label" : "Percent of branches with video advisory capability over the next 5 years:",
+                "options" : [
+                    "25%",
+                    "50%",
+                    "75%",
+                    "100%"
+                ]
+            }
+        },
+        "s3" : {
+            "head" : "The rise in virtual banking hasn’t changed your customers’ attitudes. They still want meaningful, in-person contact at the branch level."
+        },
+        "s4" : {
+            "head" : "It’s more important than ever to serve your customers in real time.",
+            "block1" : [
+                "76%",
+                "Seventy-six percent prefer mobile channels for basic banking transactions"
+            ],
+            "block2" : [
+                "2.5",
+                "Yet, mobile users average 2.5 branch visits per month"
+            ],
+            "block3" : [
+                "65%",
+                "Sixty-five percent of customers prefer the branch for personalized advice and attention"
+            ],
+            "block4" : [
+                "26%",
+                "Twenty-six percent of customers would switch banks if their branches reduced personal attention"
+            ]        
+        },
+        "s5" : {
+            "disclaimer" : "2012 Cisco IBSG Study: \"Winning Strategies for Omnichannel Banking\"",
+            "head" : "Many branch visitors find that financial experts are busy or unavailable."
+        },
+        "s6" : {
+            "block1" : [
+                "70%",
+                "Seventy percent of customers who were asked to return later to meet with an expert failed to do so.*"
+            ],
+            "disclaimer" : "* Forrester Research estimate, 2008",
+            "chart" : {
+                "head" : "Average Interaction Time",
+                "row1" : ["ATM", "< 1.5 min"],
+                "row2" : ["Teller", "< 3 min"],
+                "row3" : ["Phone", "6 min"],
+                "row4" : ["In-Person", "> 20 min"],
+                "row5" : ["Video", "28 min"]
+            },
+            "block2" : "Those who do engage with experts have longer interactions, and a more meaningful experience."
+        },
+        "s7" : {
+            "head" : "Banks can serve their customers better by using video to reach their financial experts on demand. And this means more revenue opportunities."
+        },
+        "s8" : {
+            "head" : "These experts are also more likely to cross-sell and upsell other complex products",
+            "block1" : {
+                "intro" : "The Cisco Remote Expert Solution gives financial advisors the tools they need to close more sales, including complex products such as mortgages.",
+                "house" : [
+                    "50%",
+                    "increase in mortgage applications"
+                ],
+                "key" : [
+                    "30%",
+                    "increase in close rates"
+                ]
+            },
+            "chart" : {
+                "title" : "Products per customer",
+                "row1" : ["Phone", "1.4"],
+                "row2" : ["Video", "2.5"]
+            }
+        },
+        "s9" : {
+            "head" : "Cisco Remote Expert for Retail Banking helps branches provide personalized advisory services. As a result, retail banks keep their customers happy and capture"
+        },
+        "s10" : {
+            "content" : "missed revenue opportunities.",
+            "link" : "<a href=\"http://www.cisco.com/web/strategy/financial/calculations.html\">Find out more about the calculations behind your results.</a>"
+        },
+        "s11" : {
+            "disclaimer1" : "Disclaimer: Estimates of revenue are based on Cisco Remote Expert ROI modeling tool.",
+            "disclaimer2" : "Discounted NPV over 5 years inclusive of total cost of ownership: ",
+            "link1" : "To learn more about Cisco Remote Expert, please visit:  <a href=\"http://www.cisco.com/go/fsi-remoteexpert/\">www.cisco.com/go/fsi-remoteexpert</a>"
+        }
+    },
+    "tbl" : [
+        [
+            [
+                "$8,435,700",
+                "$21,089,250",
+                "$31,736,250",
+                "$42,178,500",
+                "$105,446,250",
+                "$210,892,500"
+            ],
+            [
+                "$11,302,200",
+                "$28,255,500",
+                "$42,383,250",
+                "$56,511,000",
+                "$141,277,500",
+                "$282,555,000"
+            ],
+            [
+                "$14,168,700",
+                "$35,421,750",
+                "$53,235,000",
+                "$70,843,500",
+                "$177,108,750",
+                "$354,217,500"
+            ],
+            [
+                "$17,035,200",
+                "$42,588,000",
+                "$63,882,000",
+                "$85,176,000",
+                "$212,940,000",
+                "$425,880,000"
+            ]
+        ],
+        [
+            [
+                "$12,653,550",
+                "$31,633,875",
+                "$47,604,375",
+                "$63,267,750",
+                "$158,169,375",
+                "$316,338,750"
+            ],
+            [
+                "$16,953,300",
+                "$42,383,250",
+                "$63,574,875",
+                "$84,766,500",
+                "$211,916,250",
+                "$423,832,500"
+            ],
+            [
+                "$21,253,050",
+                "$53,132,625",
+                "$79,852,500",
+                "$106,265,250",
+                "$265,663,125",
+                "$531,326,250"
+            ],
+            [
+                "$25,552,800",
+                "$63,882,000",
+                "$95,823,000",
+                "$127,764,000",
+                "$319,410,000",
+                "$638,820,000"
+            ]
+        ],
+        [
+            [
+                "$16,871,400",
+                "$42,178,500",
+                "$63,472,500",
+                "$84,357,000",
+                "$210,892,500",
+                "$421,785,000"
+            ],
+            [
+                "$22,604,400",
+                "$56,511,000",
+                "$84,766,500",
+                "$113,022,000",
+                "$282,555,000",
+                "$565,110,000"
+            ],
+            [
+                "$28,337,400",
+                "$70,843,500",
+                "$106,470,000",
+                "$141,687,000",
+                "$354,217,500",
+                "$708,435,000"
+            ],
+            [
+                "$34,070,400",
+                "$85,176,000",
+                "$127,764,000",
+                "$170,352,000",
+                "$425,880,000",
+                "$851,760,000"
+            ]
+        ]
+    ],
+    "npvval" : [
+        [
+            [
+                "$3,096,888",
+                "$8,740,925",
+                "$13,529,599",
+                "$18,207,734",
+                "$46,494,223",
+                "$93,640,900"
+            ],
+            [
+                "$2,869,219",
+                "$8,240,370",
+                "$12,712,047",
+                "$17,139,244",
+                "$43,804,080",
+                "$88,239,522"
+            ],
+            [
+                "$2,662,533",
+                "$7,728,365",
+                "$11,913,996",
+                "$16,080,126",
+                "$41,128,692",
+                "$82,874,591"
+            ],
+            [
+                "$2,483,944",
+                "$7,171,880",
+                "$11,096,444",
+                "$14,971,076",
+                "$38,402,701",
+                "$77,095,900"
+            ]
+        ],
+        [
+            [
+                "$6,059,201",
+                "$16,146,707",
+                "$24,674,563",
+                "$33,019,298",
+                "$83,523,134",
+                "$167,698,722"
+            ],
+            [
+                "$6,800,372",
+                "$18,068,252",
+                "$27,453,870",
+                "$36,795,009",
+                "$92,943,490",
+                "$186,518,344"
+            ],
+            [
+                "$7,562,526",
+                "$19,978,347",
+                "$30,325,261",
+                "$40,580,090",
+                "$102,378,604",
+                "$205,374,413"
+            ],
+            [
+                "$8,352,777",
+                "$21,843,962",
+                "$33,104,567",
+                "$44,315,241",
+                "$111,763,113",
+                "$223,816,723"
+            ]
+        ],
+        [
+            [
+                "$9,021,514",
+                "$23,552,489",
+                "$35,819,528",
+                "$47,830,862",
+                "$120,552,045",
+                "$241,756,543"
+            ],
+            [
+                "$10,731,525",
+                "$27,896,134",
+                "$42,195,693",
+                "$56,450,773",
+                "$142,082,901",
+                "$284,797,166"
+            ],
+            [
+                "$12,462,519",
+                "$32,228,329",
+                "$48,736,525",
+                "$65,080,055",
+                "$163,628,515",
+                "$327,874,236"
+            ],
+            [
+                "$14,221,610",
+                "$36,516,045",
+                "$55,112,691",
+                "$73,659,405",
+                "$185,123,524",
+                "$370,537,546"
+            ]
+        ]
+    ]    
+}
